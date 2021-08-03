@@ -1,1 +1,1 @@
-# Sensor-kit-v2-for-pi
+# Sensor-kit-v2-for-arduino
