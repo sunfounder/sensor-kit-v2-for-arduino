@@ -61,6 +61,12 @@ The schematic diagram:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/6087c2e1-f42f-4a37-914c-6766f83ec231/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can hear the passive buzzer beeping. It also works in the same
 way if you use an active one here.
 
@@ -79,6 +85,12 @@ way if you use an active one here.
 **Step 3:** Select correct Board and Port
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
+
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/d8302e8f-8258-4367-af17-e6ce931395cf/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
 Now, you can hear the active buzzer beeping. But it won't work if you
 use a passive one here.

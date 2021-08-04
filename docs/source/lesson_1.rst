@@ -31,8 +31,8 @@ Line (SCL), pulled up with resistors. Typical voltages used are +5 V or
 
 **Principle**
 
-In this experiment, we will let I2C LCD1602 display “SunFounder" and
-“hello, world" by programming.
+In this experiment, we will let I2C LCD1602 display \"SunFounder\" and
+\"hello, world\" by programming.
 
 **Experimental Procedures**
 
@@ -50,8 +50,8 @@ In this experiment, we will let I2C LCD1602 display “SunFounder" and
 | SCL                       | A5 (Uno)/Pin 21 (Mega2560)               |
 +---------------------------+------------------------------------------+
 
-**Note**: The I2C LCD1602 is connected to Mega2560 differently compared
-with being done to Uno. PLEASE follow the wiring above.
+.. note:: 
+    The I2C LCD1602 is connected to Mega2560 differently compared with being done to Uno. PLEASE follow the wiring above.
 
 .. image:: media/image61.png
 
@@ -83,12 +83,18 @@ Click the **Upload** icon to upload the code to the control board.
 
 .. image:: media/image64.png
 
-If "**Done uploading**" appears at the bottom of the window, it means
+If \"**Done uploading**\" appears at the bottom of the window, it means
 the sketch has been successfully uploaded.
 
 .. image:: media/image65.png
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/22519a4e-fe11-46ad-8b5a-da8f2db6601e/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 You should now see your I2C LCD1602 display the flowing characters:
-"SunFounder" and "hello, world".
+\"SunFounder\" and \"hello, world\".
 
 .. image:: media/image66.png

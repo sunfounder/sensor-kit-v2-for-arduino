@@ -73,6 +73,12 @@ The wiring between the passive buzzer and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/a2791786-da30-47cb-b3de-8c38e6abd7b6/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, if a magnet approaches the switch Hall sensor, the indicator light
 on the sensor will light up and the buzzer will beep. At the same time,
 the LED attached to pin 13 on the SunFounder Uno board will also light

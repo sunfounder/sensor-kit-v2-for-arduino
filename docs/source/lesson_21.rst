@@ -51,6 +51,12 @@ LED will be on. Otherwise it will be off.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/48c3532f-4238-4a70-a501-a4b518d2874b/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, tilt the switch and the LED attached to pin 13 on SunFounder Uno
 board will light up.
 

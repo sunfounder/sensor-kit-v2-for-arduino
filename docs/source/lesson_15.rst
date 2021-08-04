@@ -44,6 +44,12 @@ an antenna that can receive electromagnetic waves in the air.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/e9cf2e4a-8ef2-4d44-814f-fc1acae6d0bf/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 When the module is electrified, the original state of pin SIG is low and
 the LED onside is on. Now, touch the electrode with your finger. Then it
 outputs high and the LED on it and that attached to pin 13 on the

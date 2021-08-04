@@ -57,6 +57,12 @@ The schematic diagram of the module:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/1aec8fb2-11d1-41ca-ad26-a9c51c47248b/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can see the current value of temperature displayed on the LCD,
 in both Celsius and Fahrenheit degrees.
 

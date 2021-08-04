@@ -75,6 +75,12 @@ The wiring between DS1302 and SunFounder Uno board is as shown below:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/f8242818-bd18-416e-9133-2b85fe1f26d7/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can see the current date and time information displayed on the
 I2C LCD1602.
 

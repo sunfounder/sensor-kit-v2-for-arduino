@@ -59,6 +59,12 @@ The wiring between the ultrasonic sensor and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/dd95917c-7b12-4663-bb8d-e9ad56b01546/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, move a piece of paper close to the sensor or remove it farther. You
 can see the value displayed on the LCD changes accordingly; it indicates
 the distance between the paper and the ultrasonic sensor.

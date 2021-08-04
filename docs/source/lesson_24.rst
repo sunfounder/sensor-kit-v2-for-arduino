@@ -32,7 +32,7 @@ results with digital means. Digital control is used to create a square
 wave, a signal switched between on and off. This on-off pattern can
 simulate voltages in between full on (5V) and off (0V) by changing the
 portion of the time the signal spends on versus the time that the signal
-spends off. The duration of "on time" is called the pulse width. To get
+spends off. The duration of \"on time\" is called the pulse width. To get
 varying analog values, you change, or modulate, that pulse width. If you
 repeat this on-off pattern fast enough with an LED for example, the
 result is as if the signal is a steady voltage between 0 and 5v
@@ -55,8 +55,8 @@ Here are the three basic parameters of PWM:
    :width: 6.41667in
    :height: 3.61458in
 
-1. The term **duty cycle** describes the proportion of "on" time to the
-   regular interval or "period" of time
+1. The term **duty cycle** describes the proportion of \"on\" time to the
+   regular interval or \"period\" of time
 
 2. **Period** describes the reciprocal of pulses in one second.
 
@@ -86,6 +86,12 @@ LED. In this experiment, we use a common anode RGB LED.
 **Step 3:** Select correct Board and Port
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
+
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/14f563e3-d6f3-49f3-b923-b0cd52e6d8a7/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
 Now, you can see RGB LED flash red, green and blue first, and then
 change to red, orange, yellow, green, blue, indigo and purple.

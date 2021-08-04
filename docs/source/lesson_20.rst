@@ -53,6 +53,12 @@ blink interval will increases or decreases.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/4ddc177e-385d-49a0-92ed-db4bacdab62b/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Rotate the shaft of the potentiometer and the interval at which the LED
 attached to pin 13 of the SunFounder Uno blinks will increase or
 decrease.

@@ -92,6 +92,12 @@ de-energized and the relay will restore to the initial state.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/e2247a63-0181-4b78-9dd0-58162d773c39/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you may hear the ticktock. That's the normally closed contact
 opened and the normally open contact closed.
 

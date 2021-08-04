@@ -136,8 +136,8 @@ Arduino\Library\LiquidCrystal_I2C*, Click **Open**.
 
 .. image:: media/image55.png
 
-**Step 3:** When you see “Library added to your libraries. Check
-"Include library" menu”, it means you have added the library
+**Step 3:** When you see \"Library added to your libraries. Check
+\"Include library\" menu\", it means you have added the library
 successfully. Please use the same method to add other libraries then.
 
 .. image:: media/image56.png

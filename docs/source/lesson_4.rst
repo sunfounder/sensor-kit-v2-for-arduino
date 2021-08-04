@@ -60,6 +60,12 @@ The schematic diagram of the module:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/cdf802aa-ba44-4d11-9112-fb6ef1b33860/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, touch the thermistor, and the LED on the analog temperature sensor
 module and that attached to pin 13 of the SunFounder Uno will go out.
 

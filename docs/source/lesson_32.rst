@@ -115,6 +115,12 @@ The wiring between the color sensor and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/ce8c98e8-eacd-44d4-8534-38af71c83e15/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now you may check the RGB value of the color on Serial Monitor.
 
 .. image:: media/image174.jpeg

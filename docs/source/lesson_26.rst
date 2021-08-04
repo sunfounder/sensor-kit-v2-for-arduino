@@ -52,6 +52,12 @@ changes from red to green as well as flashes a mixed color.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/9c5f7594-9627-4e8a-b4cc-003a125bc1bd/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can see the dual-color LED changes from red to green
 alternately, as well as flashing a mixed color during the alternation.
 

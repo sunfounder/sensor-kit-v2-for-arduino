@@ -83,6 +83,12 @@ The wiring between the passive buzzer and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/cd8aa5a9-aa90-4460-acba-b941d4d72d3b/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, ignite a lighter near the flame sensor. Then the buzzer will beep,
 and the LED on the flame sensor module and that attached to pin 13 of
 the SunFounder board will light up.

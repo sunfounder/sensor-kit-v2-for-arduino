@@ -56,6 +56,12 @@ transmission. The schematic diagram is as follows:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/b497c846-e383-4680-8ae3-8ef3837c7ae4/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can see the value of current temperature displayed on the LCD.
 
 .. image:: media/image141.jpeg

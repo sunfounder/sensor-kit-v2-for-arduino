@@ -53,6 +53,12 @@ produce pulses of light—as short as a femtosecond.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/1d3bfc6b-6785-4359-b62b-85570b06c9da/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can see the Laser Transmitter module send out Morse signals.
 
 .. image:: media/image163.jpeg

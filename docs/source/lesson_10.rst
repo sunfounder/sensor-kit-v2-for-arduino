@@ -56,6 +56,12 @@ more consistent and reliable.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/58a12339-b00b-40fa-ad2a-82e67a36c847/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, ignite a lighter. Then the sensor detects the gas emitted. Thus,
 the LED on the gas sensor and that attached to pin 13 on the SunFounder
 Uno board will light up. Also you can see the value at A0 and D0 printed

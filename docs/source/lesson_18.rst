@@ -26,7 +26,7 @@ the existence of a magnetic field.
 **Principle**
 
 A reed switch is a type of line switch component that realizes control
-by magnetic signals. It induces by a magnet. The “switch" here means dry
+by magnetic signals. It induces by a magnet. The \"switch\" here means dry
 reed pipe, which is a kind of contact passive electronic switch
 component with the advantage of simple structure, small size, and
 convenient control. The shell of a reed switch is commonly a sealed
@@ -69,6 +69,12 @@ The schematic diagram
 **Step 3:** Select correct Board and Port
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
+
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/02cb0935-16ab-4170-9ff6-e501b9468479/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
 Now, use a magnet to approach the reed switch, and the LED on the reed
 switch module and that on the SunFounder board light up. Move the magnet

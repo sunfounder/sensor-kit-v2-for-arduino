@@ -59,6 +59,12 @@ The schematic diagram of the module:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/99785982-60a2-4a8b-8c38-2ac40982a607/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Open the serial monitor, and you will see the figures of the temperature
 and the air pressure.
 

@@ -68,6 +68,12 @@ The schematic diagram
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/2a5af6f8-25bd-461a-b345-2323edb8591c/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can see the value of current humidity and temperature displayed
 on the LCD.
 

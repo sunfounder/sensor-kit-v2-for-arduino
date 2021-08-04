@@ -82,6 +82,12 @@ The schematic diagram of the analog Hall sensor module:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/ab6e66f4-4053-4dfa-8faf-c409f008f6c4/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, put a magnet close to the Hall sensor. The voltage of D0 changes
 from high to low, and then the LED on the sensor and that attached to
 pin 13 of the SunFounder Uno light up. You can see the value of A0 and

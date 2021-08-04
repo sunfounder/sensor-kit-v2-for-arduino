@@ -64,6 +64,12 @@ The schematic diagram is shown as below:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/5b249a31-e778-43aa-9b2b-386e81693de8/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now drop some water onto the sensor, When the quantities of the
 raindrops exceeds the threshold, the LED on the raindrop sensor module
 and that hooked up with pin 13 of the SunFounder Uno board light up;

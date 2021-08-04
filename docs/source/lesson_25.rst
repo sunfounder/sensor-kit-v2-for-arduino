@@ -52,6 +52,12 @@ or another key is pressed down.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/b4473d0a-978d-4b4d-a881-1f3963a22535/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, press the Power key of a remote controller, and the LED attached to
 pin 13 on the SunFounder Uno board will light up. Then press any other
 key, and the LED will go out.

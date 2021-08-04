@@ -44,6 +44,12 @@ button-pressing signals, the LED will be on. Otherwise it will be off.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/107fb05f-0047-4f79-ad7d-b62ed0adda6f/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, press the button, and then the LED on the button module and that
 hooked up with pin 13 of the SunFounder Uno board will light up.
 

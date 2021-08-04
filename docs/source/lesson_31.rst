@@ -63,6 +63,12 @@ The schematic diagram is as follows:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/aaac5117-bdcf-469f-b699-23e3214885ee/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, place a piece of paper in front of the Obstacle Avoidance Sensor,
 and the LED attached to pin 13 on the SunFounder Uno board will light
 up.

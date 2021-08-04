@@ -50,6 +50,12 @@ this change.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/d153f482-9e5d-492a-8001-2ba29c6f09b1/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, stick a piece of paper in the gap of the sensor, and the LED
 attached to pin 13 on the SunFounder Uno will go out; remove the paper,
 and then the LED will light up again.

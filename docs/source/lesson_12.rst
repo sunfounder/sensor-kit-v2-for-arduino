@@ -62,6 +62,12 @@ The wiring between the Joystick PS2 and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/c78d19ab-01b1-450e-9d72-bd8b9c1ef48d/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, push the rocker and the coordinates of X and Y axes displayed on
 Serial Monitor will change accordingly; press the button, and the
 coordinate of Z=0 will also be displayed.

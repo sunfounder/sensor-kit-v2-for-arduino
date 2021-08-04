@@ -53,6 +53,12 @@ attached to pin 13 will light up.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/85e67cf9-d540-47ba-bbb0-2225d5d55b91/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, shake the switch module, and you should see the LED attached to pin
 13 on SunFounder Uno board and that on the module light up.
 

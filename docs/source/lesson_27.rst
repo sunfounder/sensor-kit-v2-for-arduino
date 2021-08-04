@@ -47,6 +47,12 @@ The schematic diagram:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/8caadddf-1f8d-474b-80d6-2830c3050167/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now you can see the value of sound intensity on Serial Monitor. When the
 volume reaches to a certain value, the LED attached to pin 13 on the
 SunFounder Uno will light up.

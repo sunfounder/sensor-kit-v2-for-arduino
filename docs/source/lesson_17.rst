@@ -77,6 +77,12 @@ The wiring between the photoresistor and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/12406e4f-3942-45ef-9bfa-b33142cf0e98/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now hold the photoresistor with your fingers and check the value at A0
 on Serial Monitor. You can see when the resistance is up to 400ohm, the
 normally open contact of the relay is closed and the LED connected to

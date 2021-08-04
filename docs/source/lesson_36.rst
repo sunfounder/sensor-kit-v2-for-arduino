@@ -144,6 +144,12 @@ The wiring between the I2C LCD1602 module and SunFounder Uno:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/d602f97e-4d33-4f4b-b8dc-6f045fbd8e0c/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, after the startup, the LCD1602 first displays **Thermostatic Water
 Tank** and then the value of the current temperature. Press the button
 on the Button module to enter setup mode. Then rotate the Rotary Encoder

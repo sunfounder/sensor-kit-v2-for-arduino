@@ -58,6 +58,12 @@ low and the LED lights up. See the schematic diagram below.
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/bfbb7bbd-71d0-499b-852d-2e23d27bd2ec/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, draw two black bold lines on the paper. If the rays emitted by the
 sensor encounter the black lines, the LED attached to pin 13 on the
 SunFounder Uno board will light up; otherwise, it is off.

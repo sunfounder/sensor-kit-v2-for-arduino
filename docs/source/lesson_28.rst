@@ -93,6 +93,12 @@ The wiring between the rotary encoder and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/29be9424-8e78-4e7b-a58c-d9dd2b43fd5d/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 Now, you can see the angular displacement of the rotary encoder printed
 on Serial Monitor. When the rotary encoder rotates clockwise, the
 angular displacement increases; when it does counterclockwise, the value

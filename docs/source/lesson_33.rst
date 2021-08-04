@@ -97,6 +97,12 @@ The wiring between PCF8591 and SunFounder Uno board:
 
 **Step 4:** Upload the sketch to the SunFounder Uno board
 
+**Code**
+
+.. raw:: html
+
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/8fc9569a-6c79-4983-a556-5d4b096eb029/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 We can see the indicator light D2 on the AD/DA converter PCF8591
 gradually lights up and goes out alternately. The same happens to the
 LED attached to pin 13 of the SunFounder Uno board
