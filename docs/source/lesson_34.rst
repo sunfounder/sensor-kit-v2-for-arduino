@@ -54,9 +54,7 @@ The schematic diagram is shown as below:
 **Step 1:** Build the circuit
 
 .. image:: media/image181.png
-   :alt: G:\电路图sensor kit\Frizting 图\33 Raindrop Sensor_bb.png
-   :width: 6.5in
-   :height: 3.31806in
+   :width: 600
 
 **Step 2:** Open the code file
 

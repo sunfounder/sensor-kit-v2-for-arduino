@@ -83,8 +83,7 @@ de-energized and the relay will restore to the initial state.
 **Step 1:** Build the circuit
 
 .. image:: media/image126.png
-   :width: 4.70625in
-   :height: 3.55694in
+   :width: 600
 
 **Step 2:** Open the code file
 

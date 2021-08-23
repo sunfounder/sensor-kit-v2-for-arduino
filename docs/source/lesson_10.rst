@@ -47,8 +47,7 @@ more consistent and reliable.
 **Step 1:** Build the circuit
 
 .. image:: media/image96.png
-   :width: 5.21111in
-   :height: 3.65in
+   :width: 600
 
 **Step 2:** Open the code file
 

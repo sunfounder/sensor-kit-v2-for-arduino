@@ -43,8 +43,7 @@ changes from red to green as well as flashes a mixed color.
 **Step 1:** Build the circuit
 
 .. image:: media/image151.png
-   :width: 3.75in
-   :height: 3.98958in
+   :width: 450
 
 **Step 2:** Open the code file
 
@@ -62,6 +61,4 @@ Now, you can see the dual-color LED changes from red to green
 alternately, as well as flashing a mixed color during the alternation.
 
 .. image:: media/image152.jpeg
-   :alt: \_MG_0539
-   :width: 4.88611in
-   :height: 3.74722in
+   :width: 600

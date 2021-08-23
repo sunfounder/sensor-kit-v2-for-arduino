@@ -2,11 +2,7 @@ Get Started
 =============
 
 .. note::
-    1) Before starting your own project, you must download the file `Sensor
-       Kit V2.0 for
-       Arduino.zip <http://www.sunfounder.com/learn/download/U21hcnRfQ2FyX2Zvcl9BcmR1aW5vLnppcA==/dispa>`__
-       on our official website by visiting **LEARN** -> **Get Tutorials** ->
-       **Sensor Kit V2.0 for Arduino** and unzip it.
+    1) Before starting your own project, you must download the file `Sensor Kit V2.0 for Arduino.zip <https://drive.google.com/file/d/1Fy88ikH1sagteuxBZaaE4dZ7XdAdr1pf/view?usp=sharing>`_ on our official website by visiting LEARN -> Sensor Kit V2.0 for Arduino and unzip it.
 
     2) Besides, a visual programming language software-Mixly is also
        provided. It can help you to complete the lessons quicker and easier.

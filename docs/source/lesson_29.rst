@@ -62,7 +62,7 @@ produce pulses of light—as short as a femtosecond.
 Now, you can see the Laser Transmitter module send out Morse signals.
 
 .. image:: media/image163.jpeg
-  :width: 600
+  :width: 800
 
 .. note:: 
     DO NOT look directly at the laser head. It can cause great harm to your eyes.

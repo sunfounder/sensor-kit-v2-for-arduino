@@ -124,4 +124,4 @@ The wiring between the color sensor and SunFounder Uno board:
 Now you may check the RGB value of the color on Serial Monitor.
 
 .. image:: media/image174.jpeg
-   :width: 600
+   :width: 800

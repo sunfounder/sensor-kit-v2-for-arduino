@@ -64,8 +64,7 @@ The wiring between the passive buzzer and SunFounder Uno board:
 +-----------------------------------+-----------------------------------+
 
 .. image:: media/image73.png
-   :width: 3.55556in
-   :height: 4.74792in
+   :width: 500
 
 **Step 2:** Open the code file
 

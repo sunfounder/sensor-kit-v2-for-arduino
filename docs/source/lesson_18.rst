@@ -61,8 +61,7 @@ The schematic diagram
 **Step 1:** Build the circuit
 
 .. image:: media/image122.png
-   :width: 3.02361in
-   :height: 3.98611in
+   :width: 450
 
 **Step 2:** Open the code file
 

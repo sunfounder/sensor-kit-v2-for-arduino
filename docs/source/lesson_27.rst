@@ -58,6 +58,4 @@ volume reaches to a certain value, the LED attached to pin 13 on the
 SunFounder Uno will light up.
 
 .. image:: media/image155.jpeg
-   :alt: 图片2
-   :width: 5.09861in
-   :height: 3.72986in
+   :width: 600

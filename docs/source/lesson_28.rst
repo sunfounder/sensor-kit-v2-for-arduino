@@ -106,6 +106,4 @@ decreases. Press the switch on the rotary encoder, the value will return
 to zero.
 
 .. image:: media/image160.jpeg
-   :alt: \_MG_0541
-   :width: 6.67292in
-   :height: 4.55694in
+   :width: 600

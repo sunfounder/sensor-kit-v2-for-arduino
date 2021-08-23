@@ -51,7 +51,7 @@ The wiring between the ultrasonic sensor and SunFounder Uno board:
 +-----------------------------------+-----------------------------------+
 
 .. image:: media/image183.png
-   :width: 600
+   :width: 800
 
 **Step 2:** Open the code file
 

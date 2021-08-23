@@ -50,8 +50,7 @@ The schematic diagram:
 **Step 1:** Build the circuit
 
 .. image:: media/image136.png
-   :width: 2.98889in
-   :height: 4.10208in
+   :width: 400
 
 **Passive Buzzer**
 
@@ -71,9 +70,7 @@ Now, you can hear the passive buzzer beeping. It also works in the same
 way if you use an active one here.
 
 .. image:: media/image137.jpeg
-   :alt: \_MG_0514
-   :width: 4.53403in
-   :height: 3.45972in
+   :width: 500
 
 **Active Buzzer**
 

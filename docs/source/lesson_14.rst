@@ -44,8 +44,7 @@ pin SIG will output low level, and the LED on the module and that
 attached to pin 13 will light up.
 
 .. image:: media/image109.png
-   :width: 5.28889in
-   :height: 3.8125in
+   :width: 500
 
 **Step 2:** Open the code file (Lesson 14 Vibration Switch)
 

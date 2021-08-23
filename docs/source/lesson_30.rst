@@ -50,7 +50,7 @@ low and the LED lights up. See the schematic diagram below.
 **Step 1:** Build the circuit
 
 .. image:: media/image165.png
-   :width: 500
+   :width: 600
 
 **Step 2:** Open the code file
 
@@ -72,6 +72,4 @@ SunFounder Uno board will light up; otherwise, it is off.
     The black line should be wider than the TCRT5000 sensor.
 
 .. image:: media/image166.jpeg
-   :alt: \_MG_0547
-   :width: 6.65972in
-   :height: 4.44028in
+   :width: 600

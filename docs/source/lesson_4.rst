@@ -51,8 +51,7 @@ The schematic diagram of the module:
 **Step 1:** Build the circuit
 
 .. image:: media/image77.png
-   :width: 3.71736in
-   :height: 4.50278in
+   :width: 450
 
 **Step 2:** Open the code file
 
