@@ -54,6 +54,7 @@ In this experiment, we will let I2C LCD1602 display \"SunFounder\" and
     The I2C LCD1602 is connected to Mega2560 differently compared with being done to Uno. PLEASE follow the wiring above.
 
 .. image:: media/image61.png
+    :width: 800
 
 **Step 2:** Open the code file
 

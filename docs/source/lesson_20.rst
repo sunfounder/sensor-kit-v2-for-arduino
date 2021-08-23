@@ -44,8 +44,7 @@ blink interval will increases or decreases.
 **Step 1:** Build the circuit
 
 .. image:: media/image129.png
-   :width: 4.00833in
-   :height: 3.03125in
+   :width: 600
 
 **Step 2:** Open the code file
 

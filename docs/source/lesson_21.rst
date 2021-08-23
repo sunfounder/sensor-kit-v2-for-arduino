@@ -42,8 +42,7 @@ LED will be on. Otherwise it will be off.
 **Step 1:** Build the circuit
 
 .. image:: media/image132.png
-   :width: 3.38194in
-   :height: 4.18681in
+   :width: 450
 
 **Step 2:** Open the code file
 

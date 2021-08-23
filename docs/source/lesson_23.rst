@@ -47,8 +47,7 @@ transmission. The schematic diagram is as follows:
 **Step 1:** Build the circuit
 
 .. image:: media/image140.png
-   :width: 6.55833in
-   :height: 3.31389in
+   :width: 800
 
 **Step 2:** Open the code file
 
@@ -65,5 +64,4 @@ transmission. The schematic diagram is as follows:
 Now, you can see the value of current temperature displayed on the LCD.
 
 .. image:: media/image141.jpeg
-   :width: 6.39236in
-   :height: 4.17986in
+   :width: 600

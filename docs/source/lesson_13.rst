@@ -35,8 +35,7 @@ button-pressing signals, the LED will be on. Otherwise it will be off.
 **Step 1:** Build the circuit
 
 .. image:: media/image106.png
-   :width: 3.09722in
-   :height: 4.85in
+   :width: 400
 
 **Step 2:** Open the code file
 

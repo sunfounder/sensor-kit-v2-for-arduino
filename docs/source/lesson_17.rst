@@ -68,8 +68,7 @@ The wiring between the photoresistor and SunFounder Uno board:
 +-----------------------------------+-----------------------------------+
 
 .. image:: media/image119.png
-   :width: 5.77361in
-   :height: 3.94583in
+   :width: 800
 
 **Step 2:** Open the code file
 

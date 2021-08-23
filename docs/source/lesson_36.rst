@@ -135,8 +135,7 @@ The wiring between the I2C LCD1602 module and SunFounder Uno:
 +-------------------------------+--------------------------------------+
 
 .. image:: media/image185.png
-   :width: 6.74514in
-   :height: 4.44583in
+   :width: 600
 
 **Step 2:** Open the code file
 
@@ -167,6 +166,4 @@ decrease. When the value reaches the threshold, the contact is open,
 characters on the LCD blurred, and LED out.
 
 .. image:: media/image186.jpeg
-   :alt: 36
-   :width: 6.76389in
-   :height: 5.03194in
+   :width: 600

@@ -54,8 +54,7 @@ The schematic diagram is as follows:
 **Step 1:** Build the circuit
 
 .. image:: media/image168.png
-   :width: 3.05278in
-   :height: 4.44931in
+   :width: 400
 
 **Step 2:** Open the code file
 
@@ -77,15 +76,11 @@ up.
     The obstacle should better be white.
 
 .. image:: media/image169.jpeg
-   :alt: \_MG_0553
-   :width: 4.47569in
-   :height: 3.77986in
+   :width: 600
 
 Before
 
 .. image:: media/image170.jpeg
-   :alt: \_MG_0552
-   :width: 5.96806in
-   :height: 3.71111in
+   :width: 600
 
 With obstacle

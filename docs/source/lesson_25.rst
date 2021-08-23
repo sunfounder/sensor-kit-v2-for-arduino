@@ -63,6 +63,4 @@ pin 13 on the SunFounder Uno board will light up. Then press any other
 key, and the LED will go out.
 
 .. image:: media/image149.jpeg
-   :alt: \_MG_000yh2
-   :width: 5.34514in
-   :height: 3.74514in
+   :width: 500

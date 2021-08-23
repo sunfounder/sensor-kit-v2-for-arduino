@@ -88,8 +88,7 @@ The wiring between PCF8591 and SunFounder Uno board:
 +-------------------------------+--------------------------------------+
 
 .. image:: media/image178.png
-   :width: 5.08264in
-   :height: 3.97639in
+   :width: 600
 
 **Step 2:** Open the code file
 
@@ -108,4 +107,4 @@ gradually lights up and goes out alternately. The same happens to the
 LED attached to pin 13 of the SunFounder Uno board
 
 .. image:: media/image179.jpeg
-   :width: 500
+   :width: 600

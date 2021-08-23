@@ -78,8 +78,7 @@ LED. In this experiment, we use a common anode RGB LED.
 **Step 1:** Build the circuit
 
 .. image:: media/image145.png
-   :width: 5.62222in
-   :height: 4.20069in
+   :width: 600
 
 **Step 2:** Open the code file
 
