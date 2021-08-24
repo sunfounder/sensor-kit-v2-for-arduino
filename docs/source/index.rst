@@ -1,7 +1,8 @@
-Preface
-==========
+Sensor Kit V2 for Arduino
+===============================
 
-**About the Sensor Kit for Arduino 2.0**
+About the Sensor Kit for Arduino 2.0
+------------------------------------------
 
 The kit is suitable for SunFounder Uno, Mega 2560, Duemilanove and Nano and also fully compatible with the corresponding Arduino boards. It includes 37 various modules for you to learn and we provide corresponding lessons which are simple and useful for better understanding. Hope you can learn their applications quickly and use them in your own projects! 
 
